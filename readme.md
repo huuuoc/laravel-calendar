@@ -9,7 +9,7 @@ Thanks to [@dhonions](https://github.com/dhonions) for the [initial repo](https:
 ## Installing
 Require the package with composer using the following command:
 
-    composer require dhonions/laravel-calendar
+    composer require huuuoc/laravel-calendar
 
 The provider and `Calendar` alias will be registered automatically.
 
